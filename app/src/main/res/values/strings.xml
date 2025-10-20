@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="dealer">Dealer</string>
+    <string name="player">Jugador</string>
+    <string name="bet">Apostar</string>
+    <string name="hit">Pedir</string>
+    <string name="stand">Plantarse</string>
+    <string name="new_round">Nueva Ronda</string>
+    <string name="balance">Saldo</string>
+    <string name="current_bet">Apuesta</string>
+    <string name="you_win">¡Ganaste!</string>
+    <string name="you_lose">Perdiste</string>
+    <string name="push">Empate</string>
+    <string name="blackjack">¡BlackJack!</string>
+    <string name="busted">¡Te pasaste!</string>
+</resources>
